@@ -22,9 +22,9 @@ https://alura-space-rl.vercel.app/
 
 ## Como iniciar!?
 
-- Node version -> 18.16
+- Node version: 18.16
 
-Para rodar os testes, rode o seguinte comando
+Para iniciar:
 
 ```bash
   npm install
