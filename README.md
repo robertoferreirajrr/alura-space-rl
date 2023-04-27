@@ -20,3 +20,8 @@ O trabalho executado pode ser visualizado na Vercel:
 
 https://alura-space-rl.vercel.app/
 
+## Como iniciar!?
+
+1 - npm install
+2 - npm start
+
