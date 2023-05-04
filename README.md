@@ -1,5 +1,5 @@
 
-# React Learning ( Alura Space)
+# React Learning ( Alura Space )
 
 Neste projeto desenvolvido, foram implementados diversos aprendizados importantes para quem deseja se aprofundar no desenvolvimento de aplicações web utilizando a biblioteca React.
 
